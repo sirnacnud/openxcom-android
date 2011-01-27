@@ -1,0 +1,6 @@
+[submodule "sdl_android"]
+	path = sdl_android
+	url = git@github.com:sirnacnud/commandergenius.git
+[submodule "openxcom/src"]
+	path = openxcom/src
+	url = git@github.com:sirnacnud/openxcom.git
