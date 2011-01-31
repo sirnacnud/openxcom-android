@@ -10,10 +10,12 @@ Setup Instructions:
 ------------------
 1. Download and install android SDK
 2. Download and install CrystaX android NDK: http://smartctl.net/android/ndk-r4.php
-3. After cloning the repository.  Do a git submodule init.  Any time in the future to get submodule updates, you need to run git submodule update.
-4. Go to the sdl_android/project directory and run android update project -p .
-5. Uncomment the line in sdl_android/build.sh for adding the CrystaX NDK to your path.  Make sure this line is pointing to your install of the Crystax NDK.
-6. Put your Xcom game data in a zip file called xcom-data.zip, place the zip file in the openxcom/AndroidData directory.
+3. Clone the repository.
+4. Run git submodule init.
+5. Run git submodule update.  You will need to run this again in the future when the submodules update.
+6. Go to the sdl_android/project directory and run android update project -p .
+7. Uncomment the line in sdl_android/build.sh for adding the CrystaX NDK to your path.  Make sure this line is pointing to your install of the Crystax NDK.
+8. Put your Xcom game data in a zip file called xcom-data.zip, place the zip file in the openxcom/AndroidData directory.
 
 Build Instructions:
 ------------------
