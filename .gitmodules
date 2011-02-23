@@ -3,4 +3,4 @@
 	url = git@github.com:sirnacnud/commandergenius.git
 [submodule "openxcom/src"]
 	path = openxcom/src
-	url = git@github.com:sirnacnud/openxcom.git
+	url = git@github.com:sirnacnud/openxcom-mine.git
