@@ -23,10 +23,8 @@ Build Instructions:
 
 Run Instructions:
 ------------------
-1. When you run the application the first time, you will be prompted with some SDL configuration options.  The MIDI support and game language data
-   need to be installed to the sd card.  This is done with the default options.
-2. You will need to add your Xcom game data to the sd card.  After running the game for the first time, you will have a /sdcard/app-data/com.sirnacnud.openxcom/DATA/
-   folder, put your Xcom game data in this folder.
+1. When you run the application the first time, you will be prompted with some SDL configuration options.  The MIDI support and game language data need to be installed to the sd card.  This is done with the default options.
+2. You will need to add your Xcom game data to the sd card.  After running the game for the first time, you will have a /sdcard/app-data/com.sirnacnud.openxcom/DATA/ folder, put your Xcom game data in this folder.
 
 Notes:
 ------------------
