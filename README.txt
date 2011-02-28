@@ -4,7 +4,7 @@ OpenXcom: http://openxcom.ninex.info
 
 The port uses a port of SDL for android: http://www.anddev.org/code-snippets-for-android-f33/sdl-port-for-android-sdk-ndk-1-6-t9218.html
 
-Development for this port is being done on Linux, but you could get this working on Windows assuming you had a Unix environment setup like cygwin.  
+Development for this port is being done on Linux, but you could get this working on Windows assuming you had a Unix environment set up like cygwin.  
 
 Setup Instructions:
 ------------------
